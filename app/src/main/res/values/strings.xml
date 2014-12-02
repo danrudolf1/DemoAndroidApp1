@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Getting a Cat will Ruin Your Life</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="question_oceans">Is the pacific Ocean Larger than the Atlantic Ocean?</string>
+    <string name="question_mideast">The Suez Canal Connects The Red Sea and The Indian Ocean</string>
+    <string name="question_africa">The Source of the Nile River is in Egypt</string>
+    <string name="question_americas">The Amazon River is the Longest River in the Americas</string>
+    <string name="question_asia">Lake Baikal is the World\'s Oldest and Deepest Freshwater Lake</string>
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button_">Cheat!</string>
+    <string name="judgement_toast">Cheating is Wrong</string>
+
+</resources>
